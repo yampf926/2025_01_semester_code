@@ -1,0 +1,124 @@
+    1  pwd
+    2  sudo apt-get update
+    3  sudo apt full-upgrade -y
+    4  sudo apt-get update
+    5  sudo apt full-upgrade -y
+    6  cd 
+    7  cd /v
+    8  cd /var/lib/li
+    9  cd /var/lib/apt/lists/
+   10  sudo rm lock
+   11  cd ~
+   12  clear
+   13  ls
+   14  pwd
+   15  hostday
+   16  hostname
+   17  date
+   18  clear
+   19  history
+   20  password
+   21  passwd
+   22  sudo passwd root
+   23  su root
+   24  whoami
+   25  pwd
+   26  cd
+   27  cd D
+   28  ls
+   29  cd D
+   30  cd Do
+   31  cd Downloads/
+   32  ls
+   33  cd .
+   34  cd ..
+   35  pwd
+   36  cd ..
+   37  pwd
+   38  cd ..
+   39  ls
+   40  cd ~
+   41  pwd
+   42  su root
+   43  touch temp.txt
+   44  ls
+   45  cat temp.txt
+   46  cat week04_hello.py
+   47  echo "hello"
+   48  echo "hello" >> Hi.txt
+   49  cat Hi.txt
+   50  ls
+   51  rm Hi.txt
+   52  ls
+   53  pwd
+   54  mkdir week05
+   55  ls
+   56  rmdir week05/
+   57  mkdir week05
+   58  cd week05/
+   59  pwd
+   60  touch test.txt
+   61  ls
+   62  cd ..
+   63  pwd
+   64  rmdir week05
+   65  rm week05/test.txt
+   66  rmdir week05
+   67  mkdir week05
+   68  touch week05/test.txt
+   69  ls week05/
+   70  rmdir week05
+   71  rm week05/test.txt
+   72  rmdir week05
+   73  ls
+   74  pwd
+   75  mkdir week05
+   76  touch week05/test.txt
+   77  rmdir week05
+   78  rm -rf week05
+   79  ls -l
+   80  ls -1
+   81  ls-l
+   82  cat temp.txt
+   83  ls -1
+   84  ls -l
+   85  ls -al
+   86  ls
+   87  pwd
+   88  cd /
+   89  pwd
+   90  cd ~
+   91  pwd
+   92  cd ..
+   93  pwd
+   94  cd ~
+   95  pwd
+   96  cd ../..
+   97  pwd
+   98  cd /home/syp0426
+   99  pwd
+  100  cd /
+  101  touch .test
+  102  cd~
+  103  cd ~
+  104  pwd
+  105  touch .test
+  106  ls
+  107  ls -a
+  108  head week04_hello.py
+  109  nano temp.text
+  110  cat temp.txt
+  111  head -2
+  112  cat temp.txt
+  113  mkdir week04
+  114  mkdir week05
+  115  ls
+  116  mv week04_hello.py week04
+  117  ls
+  118  ls /week04
+  119  ls week04
+  120  mv *.txt week05
+  121  ls
+  122  ls week05
+  123  history
+  124  history >> week05.txt
